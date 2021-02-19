@@ -1,13 +1,21 @@
 ## User Manual
 
+
 Congratulations on your purchase of your every own Fractal Generator!
 
 Here are some things that you need to know.
-Firstly, this program is command line driven. Therefore, you will need to 
+
+Before use, please make sure you have the `tkinter` and `colour` libraires installed on 
+your machine before attemping to run this program.
+
+Next, this program is command line driven. Therefore, you will need to 
 navigate using a terminal to the location of the scr directory included
 in your package. Once there, you will need to enter the following command.
 
-`$ python src/Main.py`
+
+```
+$ python src/Main.py
+```
 
 This command with generate the default case for both an execution pattern
 and color pattern, as indicated by the output 
